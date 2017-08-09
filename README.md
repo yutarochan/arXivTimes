@@ -13,9 +13,9 @@ A repository for summarized machine learning papers (aka - *Sparknotes for Paper
 
 * [Article Summaries](https://github.com/yutarochan/arXivTimes/issues)
   * A TL;DR or summary of the papers are maintained in the issues section of this repository.
-* [Datasets](https://github.com/yutarochan/arXivTimes/tree/master/datasets)
+* [Datasets]()
   * All cooresponding datasets which accompany the paper reside here.
-* [Tools](https://github.com/yutarochan/arXivTimes/tree/master/tools)
+* [Tools]()
   * All tools and resources regarding implementation are listed here.
 * [Courses]
   * All MOOC courses, YouTube playlists, university lecture pages and other learning resources are provided here. 
