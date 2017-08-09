@@ -1,6 +1,6 @@
 # arXivTimes
 
-![arXivTimesLogo.PNG](./arXivTimesLogo.PNG)
+![arXivTimesLogo.PNG](./arXivTimesLogo.png)
 
 A repository for summarized machine learning related papers. (aka - Sparknotes for Papers). This repository attempts to maintain an English mirror of the original arXivTimes repository.
 
